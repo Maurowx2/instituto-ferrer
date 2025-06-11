@@ -1084,7 +1084,6 @@ export default function Home() {
   )
 }
 // Client component for scroll progress
-;("use client")
 
 function ClientScrollProgress() {
   useEffect(() => {
